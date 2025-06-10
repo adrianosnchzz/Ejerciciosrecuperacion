@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 package ejerciciocomparable;
 
 import java.util.ArrayList;
@@ -28,17 +28,4 @@ public class main {
 		
 			
 	}
-
-=======
-package ejercicioiterador2;
-
-public class main {
-	   public static void main(String[] args) {
-	        RangoPares numeros = new RangoPares(10, 30);
-
-	        for (int n : numeros) {
-	            System.out.println(n);
-	        }
-	    }
->>>>>>> 7df40b81f24474882583b8395fe15be0c8774e7e
 }
